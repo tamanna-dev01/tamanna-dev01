@@ -1,4 +1,4 @@
-<div align="center">👋 Hey, I'm Tamanna Yadav
+👋 Hey, I'm Tamanna Yadav
 
 
 🌸 About Me
