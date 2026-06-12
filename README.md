@@ -2,7 +2,9 @@
 
 Python Developer • Data Analyst • AI/ML Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analyst;Machine+Learning+Enthusiast;Open+to+IT+Opportunities;Always+Learning+New+Things+✨" /></div>---
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analyst;Machine+Learning+Enthusiast" />
+
+</div>
 
 🌸 About Me
 
