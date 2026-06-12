@@ -1,9 +1,6 @@
 
 <div align="center">👋 Hey, I'm Tamanna Yadav
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tamanna-dev01&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
-</p>
 🌸 About Me
 
 🎓 B.Sc. Graduate in Physics, Electronics & Mathematics
@@ -137,9 +134,6 @@ IStudio Training Platform
 
 <div align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=tamanna-dev01&show_icons=true&theme=radical"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanna-dev01&layout=compact&theme=radical"/></div><br><div align="center"><img src="https://streak-stats.demolab.com?user=tamanna-dev01&theme=radical"/></div>---
 
-🏅 GitHub Trophies
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=tamanna-dev01&theme=radical&no-frame=true&margin-w=15"/></div>---
 
 🌐 Connect With Me
 
