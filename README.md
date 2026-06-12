@@ -1,8 +1,9 @@
 
 <div align="center">👋 Hey, I'm Tamanna Yadav
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analyst;Machine+Learning+Enthusiast;Open+to+IT+Opportunities;Always+Learning+New+Things+✨" /><img src="https://komarev.com/ghpvc/?username=tamanna-dev01&label=Profile%20Views&color=ff69b4&style=for-the-badge" /></div>---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tamanna-dev01&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+</p>
 🌸 About Me
 
 🎓 B.Sc. Graduate in Physics, Electronics & Mathematics
